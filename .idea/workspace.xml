@@ -423,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1518052138751</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="Merge remote-tracking branch 'origin/master'&#10;&#10;# Conflicts:&#10;#&#9;arith.py&#10;#&#9;bitFilePos.py&#10;#&#9;countingfun.py&#10;#&#9;ifelseWeird.py&#10;#&#9;leap.py&#10;#&#9;lowercase.py&#10;#&#9;odds.py&#10;#&#9;primePalindrome.py&#10;#&#9;unique.py">
+      <created>1518052172560</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1518052172560</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="ToolWindowManager">
